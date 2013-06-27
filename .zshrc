@@ -8,9 +8,9 @@ ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="robbyrussell"
 
 # Example aliases
-alias zshconfig="mate ~/.zshrc"
-alias ohmyzsh="mate ~/.oh-my-zsh"
-alias filmb="mate ~/Documents/web/filmbot"
+alias zshconfig="subl ~/.zshrc"
+alias ohmyzsh="subl ~/.oh-my-zsh"
+alias filmb="subl ~/Documents/web/filmbot"
 
 # personal aliases
 alias chrm="open /Applications/Google\ Chrome.app"
